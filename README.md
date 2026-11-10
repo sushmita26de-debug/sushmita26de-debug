@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Business Analyst</b> · Power BI · SQL · A/B testing<br>
-  I turn messy data into dashboards, experiments and decisions.
+  Problem solver first, data person second. I dig into what's really holding a business back and then make the data tell the story. Startup-trained at Groww and noon, so I move fast, own the problem and keep levelling up.
 </p>
 
 <p align="center">

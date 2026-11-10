@@ -40,5 +40,3 @@
 A 6-page interactive Power BI report for a simulated omnichannel retailer, covering sales vs target, profitability, customers, operations and marketing ROI.
 
 📄 [Read the case study](https://github.com/sushmita26de-debug/Retail-Sales-Dashboard-Aurora-Living/blob/main/README.pdf) · 🖼️ [See all six pages](https://github.com/sushmita26de-debug/Retail-Sales-Dashboard-Aurora-Living/blob/main/Dashboard_Snapshots.pdf) · ⬇️ [Download the Power BI template](https://github.com/sushmita26de-debug/Retail-Sales-Dashboard-Aurora-Living/raw/main/Retail_Sales_Dashboard_Aurora_Living.pbit)
-
-<p align="center">📫 The best way to reach me is <a href="https://www.linkedin.com/in/sushmita26de/">LinkedIn</a>.</p>
